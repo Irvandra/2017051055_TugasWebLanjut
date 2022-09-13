@@ -26,4 +26,4 @@
             </div>
         </div>
     </nav>
-    <h1><?= esc($title) ?></h1>
+    <h1 class="ms-4 mt-4"><?= esc($title) ?></h1>
